@@ -54,7 +54,7 @@ This project provides a detailed **Sales Dashboard** built in Microsoft Excel. I
 
 ## 🧠 Author
 
-Created by [Your Name]  
+Created by [JENISH PATEL]  
 *Feel free to fork, use, or enhance this project for learning or reporting purposes.*
 
 ---
